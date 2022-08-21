@@ -1,0 +1,8 @@
+ProtoCommerce\CucumberTestSuite.class
+tasks\clickOn.class
+tasks\inputField.class
+ProtoCommerce\pageobject\OpenHomePageObject.class
+ProtoCommerce\stepdefinitions\homeStepdefs.class
+ProtoCommerce\stepdefinitions\parameterDef.class
+tasks\NavigateTo.class
+tasks\VerifyDisplayed.class
